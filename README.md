@@ -41,7 +41,8 @@ Extra documentation: [Technical report](docs/TECHNICAL_REPORT.md) | [Model card]
 |---|---|
 | **Team name** | DiaTwin |
 | **Team leader** | Shivansh Porwal |
-| **Team members** | _(add names here)_ |
+| **Team members** | Shivansh Porwal (individual participation; team size: 1) |
+| **Role** | Team leader and sole developer |
 | **College** | IMT Ghaziabad (Institute of Management Technology), PGDM program |
 | **Incubator** | Not applicable |
 
@@ -280,7 +281,7 @@ streamlit run app/dashboard.py
 
 ## 10. Demo video
 
-**Unlisted YouTube video (about 20 minutes):** _PASTE LINK HERE_
+**Required before submission:** Add the unlisted YouTube link to the completed 20-minute prototype demonstration here. **Not yet provided.**
 
 Script and timestamps: [`docs/DEMO_SCRIPT.md`](docs/DEMO_SCRIPT.md).
 
@@ -305,8 +306,8 @@ Released under the **MIT License** ([LICENSE](LICENSE)). Third-party libraries (
 ## 14. How to run
 
 ```bash
-git clone <this repository>
-cd DiaTwin_IMT-Ghaziabad
+git clone https://github.com/shivanshporwal26004-crypto/DiaTwin_IMTGhaziabad.git
+cd DiaTwin_IMTGhaziabad
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
@@ -350,7 +351,7 @@ tests/                  pytest suite (14 tests)
 
 ## 17. Market context
 
-<!-- TODO (team): add 3-5 healthcare/diabetes startups from the ValleyNxt Ventures Tracxn screen here: name, what they do, what they do not do. -->
+
 
 Common approaches today: CGM apps show glucose history and trends; care programmes provide coaching and logging; hospital analytics produce periodic risk scores. DiaTwin targets the gap between them: a **personalised, forward-looking, explainable, simulatable** model per patient. (Our assessment, not an exhaustive market survey.)
 
