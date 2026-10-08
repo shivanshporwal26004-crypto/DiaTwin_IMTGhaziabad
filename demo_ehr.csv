@@ -1,0 +1,13 @@
+patient_id,age,sex,bmi,duration_years,hba1c,fasting_glucose,egfr,ldl,hypertension,family_history,tcf7l2_risk_alleles,medication,activity_level,vegetarian,carb_scale,sleep_hours_mean
+P025,48,F,25.7,7.1,6.7,120,92,125,1,0,1,none,sedentary,1,1.08,8.1
+P028,57,F,25.5,12.6,7.3,123,72,163,1,1,2,metformin,moderate,0,1.16,6.1
+P032,46,F,29.2,4.9,7.5,150,84,142,0,0,0,metformin,light,1,0.99,6.8
+P066,48,M,31.3,7.3,8.2,154,89,112,0,1,0,metformin+sulfonylurea,moderate,0,1.09,5.9
+P072,42,M,19.4,9.2,6.9,141,105,135,0,1,0,metformin,sedentary,0,1.13,7.9
+P101,66,M,25.7,2.6,7.0,113,68,92,1,1,0,metformin,light,0,0.94,6.6
+P134,36,F,26.8,6.0,7.8,153,98,94,0,1,1,metformin,sedentary,1,0.96,6.4
+P151,41,F,27.7,2.3,5.9,98,92,154,1,0,1,none,sedentary,1,0.96,7.2
+P188,37,M,23.3,5.5,6.3,104,100,94,1,0,0,none,light,1,1.15,5.6
+P208,42,M,27.0,5.9,9.0,163,98,87,0,1,2,insulin,sedentary,0,1.21,6.1
+P277,40,F,32.9,10.1,9.6,174,80,102,0,0,2,metformin+sulfonylurea,light,0,1.09,6.9
+P305,40,F,28.1,4.1,8.0,138,85,103,0,1,1,insulin,light,0,1.09,6.3
